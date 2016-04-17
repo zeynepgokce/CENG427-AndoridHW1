@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone Contect Recovery</string>
+    <string name="action_settings">Settings</string>
+    <string name="op1">Turkcell</string>
+    <string name="op2">Turk Telekom</string>
+    <string name="op3">Vodafone</string>
+    <string name="op4">All</string>
+    <string name="bttnBack">Back Up</string>
+    <string name="bttnRecover">Recover</string>
+</resources>
